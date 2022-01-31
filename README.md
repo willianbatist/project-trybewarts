@@ -7,14 +7,14 @@ Este repositório contem o Projeto Trybewarts que reúne o aprendizado desenvolv
 ### Resultado obtido:
 ![](./trybewarts.gif)
 
-#### Habilidades exigidas:
+#### Habilidades que foram exigidas:
 
   - Criar formulários em HTML;
   - Utilizar CSS Flexbox para criar layouts flexíveis;
   - Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
   - Construir páginas que alteram o seu layout de acordo com a orientação da tela.
 
-#### Requisitos obrigatórios:
+#### Requisitos obrigatórios realizados:
 
   - Crie uma barra verde na parte superior da página;
   - Adicione o logotipo da Trybewarts com a classe `trybewarts-header-logo` na barra superior;
